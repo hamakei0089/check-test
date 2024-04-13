@@ -27,3 +27,7 @@ Laravel環境構築
 URL
 ・開発環境:http://localhost/
 ・phpMyAdmin:http://localhost:8080/
+
+coachtech運営様へ
+login機能が不十分となってしまい、管理画面の作成までできませんでした。
+今後ともご指導、ご鞭撻の程よろしくお願い致します。
